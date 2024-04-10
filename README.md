@@ -18,7 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
-![Screenshot 2024-03-12 135759](https://github.com/AnbuSelvanS7/Circulate-the-values-of-N-variables/assets/151528411/57d5174d-bdbc-4d07-9a98-b9248c9c99b1)
+```
+def circulate():
+    l=eval(input())
+    n=int(input())
+    l=l[n:]+l[:n]
+    print("After circulating the values are:",l)
+```
+## OUTPUT:
+![alt text](<Screenshot 2024-04-10 192819.png>)    
 
 ## Result:
 The output for circulate the values of n variables is successfull.
