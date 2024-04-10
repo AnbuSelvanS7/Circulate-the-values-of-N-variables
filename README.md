@@ -17,6 +17,13 @@ Using the slicing concept rotate the list
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
+NAME ANBU SELVAN S
+ 
+REG NO 212223110003
+
+DEP CSE(IOT)
+
 ## Program:
 ```
 def circulate():
@@ -26,7 +33,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-10 192819.png>)    
+![alt text](<Screenshot 2024-04-10 192819-1.png>)   
 
 ## Result:
 The output for circulate the values of n variables is successfull.
